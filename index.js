@@ -8,7 +8,7 @@ function theBeatlesPlay(musicians,instruments) {
 }// add solution here
 
 function johnLennonFacts(facts) {
-  const emptyArray = new Array()
+  const emptyFacts = new Array()
   let i=0
   do
   {
@@ -16,5 +16,5 @@ function johnLennonFacts(facts) {
     i++
   }
   while (i <= facts.length)
-  return emptyArray
+  return emptyFacts
 }
