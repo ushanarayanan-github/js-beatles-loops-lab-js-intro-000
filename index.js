@@ -18,3 +18,15 @@ function johnLennonFacts(facts) {
   while (i < facts.length)
   return emptyFacts
 }
+
+function iLoveTheBeatles(num) {
+  const emptyFacts = new Array()
+  do
+  {
+    emptyFacts.push("I love the Beatles!")
+    num++
+  }
+  while (num < 15)
+  return emptyFacts
+}
+
