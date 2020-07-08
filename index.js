@@ -12,7 +12,7 @@ function johnLennonFacts(facts) {
   let i=0
   do
   {
-    emptyfacts.push(facts[i]+"!!!")
+    emptyFacts.push(facts[i]+"!!!")
     i++
   }
   while (i <= facts.length)
