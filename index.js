@@ -15,6 +15,6 @@ function johnLennonFacts(facts) {
     emptyFacts.push(facts[i]+"!!!")
     i++
   }
-  while (i <= facts.length)
+  while (i < facts.length)
   return emptyFacts
 }
